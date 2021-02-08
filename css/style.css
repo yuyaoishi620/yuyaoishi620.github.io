@@ -154,14 +154,18 @@ section .title span {
 }
 
 .skills .container article {
-  width: 33.333%;
+  width: 20%;
 }
 
 .skills .container article:nth-child(2) {
-  padding: 0 20px;
+  padding-left:20px;
 }
 
 .skills .container article:nth-child(3) {
+  padding: 0 20px;
+}
+
+.skills .container article:nth-child(4) {
   padding-right: 20px;
 }
 
